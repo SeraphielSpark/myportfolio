@@ -2,7 +2,7 @@
   "name": "michael's-tech-portfolio",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://SeraphielSpark.github.io/myportfolio/",
+  "homepage": "https://seraphielspark.github.io/myportfolio",
   "type": "module",
   "scripts": {
     "dev": "vite",
